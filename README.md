@@ -1,0 +1,1 @@
+# kazcheck-safety-scoring
